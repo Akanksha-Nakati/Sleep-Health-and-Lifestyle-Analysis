@@ -8,21 +8,32 @@ The analysis is based on the Sleep Health and Lifestyle Dataset which includes v
 
 ### Dataset Attributes
 Age: Age of the individual
+
 Gender: Gender of the individual
+
 Sleep Duration: Average hours of sleep per night
+
 Sleep Quality: Subjective rating of sleep quality
+
 Physical Activity: Frequency of physical activity
+
 Diet Quality: Subjective rating of diet quality
+
 Stress Level: Subjective rating of stress levels
+
 Caffeine Intake: Daily caffeine intake
+
 Screen Time: Daily screen time before bed
+
 Other lifestyle factors: Other relevant lifestyle factors affecting sleep
 
 ## Notebooks
 This repository includes the following Jupyter notebooks:
 
 Assignment_1.ipynb: Initial data exploration and preprocessing.
+
 Assignment_2.ipynb: Feature engineering and data visualization.
+
 Assignment_3.ipynb: Advanced analysis including statistical testing and model building.
 
 ## Project Structure
@@ -53,10 +64,14 @@ jupyter notebook
 The analysis includes:
 
 Data Cleaning: Handling missing values and outliers.
+
 Data Visualization: Exploring the relationships between different variables.
+
 Feature Engineering: Creating new features to enhance model performance.
+
 Modeling: Building predictive models to understand the impact of lifestyle factors on sleep quality.
-Conclusion
+
+## Conclusion
 This project provides insights into how various lifestyle factors influence sleep health. It aims to inform better lifestyle choices that can improve sleep quality and overall well-being.
 
 ## Contributing
